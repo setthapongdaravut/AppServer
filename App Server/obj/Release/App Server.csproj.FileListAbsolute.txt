@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\bin\Release\App Server.exe.config
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\bin\Release\App Server.exe
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\bin\Release\App Server.pdb
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\bin\Release\Nancy.dll
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\bin\Release\Nancy.Hosting.Self.dll
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\bin\Release\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\bin\Release\Nancy.xml
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\bin\Release\Nancy.Hosting.Self.xml
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\bin\Release\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\obj\Release\App Server.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\obj\Release\App_Server.Form1.resources
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\obj\Release\App_Server.Properties.Resources.resources
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\obj\Release\App Server.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\obj\Release\App Server.csproj.CopyComplete
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\obj\Release\App Server.exe
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\obj\Release\App Server.pdb

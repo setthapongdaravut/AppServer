@@ -1,0 +1,33 @@
+C:\Users\Kuma\Desktop\Project\App Server\App Server\bin\Debug\App Server.exe.config
+C:\Users\Kuma\Desktop\Project\App Server\App Server\bin\Debug\App Server.exe
+C:\Users\Kuma\Desktop\Project\App Server\App Server\bin\Debug\App Server.pdb
+C:\Users\Kuma\Desktop\Project\App Server\App Server\bin\Debug\Nancy.dll
+C:\Users\Kuma\Desktop\Project\App Server\App Server\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\Kuma\Desktop\Project\App Server\App Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kuma\Desktop\Project\App Server\App Server\bin\Debug\Nancy.xml
+C:\Users\Kuma\Desktop\Project\App Server\App Server\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\Kuma\Desktop\Project\App Server\App Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kuma\Desktop\Project\App Server\App Server\obj\Debug\App Server.csprojAssemblyReference.cache
+C:\Users\Kuma\Desktop\Project\App Server\App Server\obj\Debug\App_Server.Form1.resources
+C:\Users\Kuma\Desktop\Project\App Server\App Server\obj\Debug\App_Server.Properties.Resources.resources
+C:\Users\Kuma\Desktop\Project\App Server\App Server\obj\Debug\App Server.csproj.GenerateResource.cache
+C:\Users\Kuma\Desktop\Project\App Server\App Server\obj\Debug\App Server.csproj.CoreCompileInputs.cache
+C:\Users\Kuma\Desktop\Project\App Server\App Server\obj\Debug\App Server.csproj.CopyComplete
+C:\Users\Kuma\Desktop\Project\App Server\App Server\obj\Debug\App Server.exe
+C:\Users\Kuma\Desktop\Project\App Server\App Server\obj\Debug\App Server.pdb
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\bin\Debug\App Server.exe.config
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\bin\Debug\App Server.exe
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\bin\Debug\App Server.pdb
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\bin\Debug\Nancy.dll
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\bin\Debug\Nancy.xml
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\obj\Debug\App Server.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\obj\Debug\App_Server.Form1.resources
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\obj\Debug\App_Server.Properties.Resources.resources
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\obj\Debug\App Server.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\obj\Debug\App Server.csproj.CopyComplete
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\obj\Debug\App Server.exe
+C:\Users\User\Desktop\Project\Technical\An Improving Telescope Control System via Wind Speed and Direction data\App Server\App Server\obj\Debug\App Server.pdb
